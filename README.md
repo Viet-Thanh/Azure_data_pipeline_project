@@ -1,4 +1,4 @@
-##The repository "Azure_Data_Pipeline_Project" by kareemNagah presents an end-to-end data pipeline utilizing several Azure services to extract, process, and analyze data from an on-premise SQL Server database. The pipeline is designed following the Delta Lake architecture, structured into Bronze, Silver, and Gold layers to manage data processing stages effectively.
+## The repository "Azure_Data_Pipeline_Project" by kareemNagah presents an end-to-end data pipeline utilizing several Azure services to extract, process, and analyze data from an on-premise SQL Server database. The pipeline is designed following the Delta Lake architecture, structured into Bronze, Silver, and Gold layers to manage data processing stages effectively.
 
 Key Components:
 
