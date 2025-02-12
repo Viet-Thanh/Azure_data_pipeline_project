@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-
+- [Technologies used](#Technologies used)
 
 ## Overview
 
