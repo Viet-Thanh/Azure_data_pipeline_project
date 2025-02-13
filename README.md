@@ -14,6 +14,20 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 
 ## About datasets
 
+The dataset consists of 23 columns and 43 rows, capturing the KPI progress of the Innovation team. It specifically tracks the progress of each task, the responsible individual, and performance month by month.
+
+**Columns:**
+1. Department
+2. KPI
+3. Percent
+4. Category Brearkdown
+5. Task
+6. Measurements
+7. Type
+8 -> 20. Jan -> Dec
+21. Total
+**3 havent name**
+
 https://docs.google.com/spreadsheets/d/1lLZjdCUt-r0-cNRhAVFx7YquVmgQJw2f/edit?usp=drive_link&ouid=107421613910963997740&rtpof=true&sd=true
 
 ## Ingest data
