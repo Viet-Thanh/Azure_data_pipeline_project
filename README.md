@@ -24,7 +24,7 @@ The dataset consists of 23 columns and 43 rows, capturing the KPI progress of th
 5. Task
 6. Measurements
 7. Type
-8 -> 20. Jan -> Dec
+8 -> 20  :  Jan -> Dec
 21. Total
 **3 havent name**
 
