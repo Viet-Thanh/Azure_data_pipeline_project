@@ -1,8 +1,3 @@
-## Table of Contents
-
-- [Overview](#overview)
-- [Technologies used](#Technologies used)
-
 ## Overview
 
 Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team on a Power BI dashboard. The pipeline will automatically collect, process, and update data monthly from files stored on SharePoint and MS Teams, ensuring the dashboard always reflects the latest information.
@@ -16,6 +11,6 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 - **Power BI:** Data visualization and reporting.
 - **Azure Data Lake Storage :** Storage solution for raw and processed data.
 
+## Ingest data
 
-
-
+Use **Data flow gen 2** to ingest data from file **.csv** stored on SharePoint and MS Teams
