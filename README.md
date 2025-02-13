@@ -12,8 +12,14 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 - **Power BI:** Data visualization and reporting.
 - **Azure Data Lake Storage :** Storage solution for raw and processed data.
 
+## About datasets
+
+https://docs.google.com/spreadsheets/d/1lLZjdCUt-r0-cNRhAVFx7YquVmgQJw2f/edit?usp=drive_link&ouid=107421613910963997740&rtpof=true&sd=true
+
 ## Ingest data
 
 Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** file stored on SharePoint and MS Teams. The ingestion process is scheduled to run monthly, ensuring the latest KPI data is available for processing.
 
 ![image](https://github.com/user-attachments/assets/51ed5adc-fb16-4185-9a48-b9ffcdd011b8)
+
+## 
