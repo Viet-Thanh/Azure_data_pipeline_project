@@ -13,4 +13,4 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 
 ## Ingest data
 
-Use **Data flow gen 2** to ingest data from file **.csv** stored on SharePoint and MS Teams
+Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** file stored on SharePoint and MS Teams. The ingestion process is scheduled to run monthly, ensuring the latest KPI data is available for processing.
