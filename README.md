@@ -6,7 +6,7 @@
 4. [Ingest Data](#ingest-data)
 5. [Processing Data](#processing-data)
 6. [Data Visualization](#data-visualization)
-7. [Conclude](#conclude)
+7. [Conclusion](#conclusion)
 
 # Overview
 
@@ -109,6 +109,6 @@ Slicers and filters allow users to easily customize and analyze data according t
 
 Power BI reports can be automatically shared with stakeholders via Power BI Service, saving time and ensuring that information is always up to date.
 
-## =>
+## Conclusion
 
 This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.
