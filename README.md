@@ -78,7 +78,7 @@ Connect Power BI to the Data Lake to import the processed data. After connecting
 
 The KPI Dashboard project using Power BI connected to the Data Lake for importing processed data is a powerful and effective solution for monitoring and analyzing the work performance of the Innovation team.
 
-Key highlights of the project:
+*Key highlights of the project:*
 
 ### Data Connection and Import from Data Lake:
 
