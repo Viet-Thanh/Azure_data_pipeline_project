@@ -60,3 +60,4 @@ After the data is cleaned and structured into a star schema, the next step is to
 - If you need to track KPI changes over time, Load_Date can be used to retrieve data for each update cycle.
 - This is useful for analyzing KPI performance across different periods.
 
+#### Code: https://github.com/Viet-Thanh/Azure_data_pipeline_project/blob/main/UPDATE%20AND%20INSERT%20BY%20LOAD_DATE.ipynb
