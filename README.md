@@ -73,3 +73,32 @@ Connect Power BI to the Data Lake to import the processed data. After connecting
 ### Employees
 
 ![image](https://github.com/user-attachments/assets/f05577a1-f2a4-4c6b-b2fc-e5be60e3819f)
+
+# Conclude
+
+The KPI Dashboard project using Power BI connected to the Data Lake for importing processed data is a powerful and effective solution for monitoring and analyzing the work performance of the Innovation team.
+
+Key highlights of the project:
+
+### Data Connection and Import from Data Lake:
+
+The use of the Azure Data Lake Storage Gen2 Connector and Power BI Dataflows allows Power BI to easily connect and retrieve processed data from the Microsoft Fabric Data Lake.
+The implementation of Incremental Refresh optimizes the monthly data refresh process, ensuring the dashboard always contains the latest data without compromising performance.
+
+### Star Schema Data Model:
+
+The data is organized using a Star Schema, making it easier to build reports and analyze KPIs across different dimensions such as Month, Department, Task, and Employee.
+This model also helps optimize query performance and simplifies KPI calculations, such as Task Completion Rate, KPI Performance, and KPI Comparison by Department.
+
+### Building KPI Dashboard in Power BI:
+
+The reports and charts in Power BI provide an interactive and visual view of work progress, departmental performance, and employee performance over the months.
+Slicers and filters allow users to easily customize and analyze data according to various parameters.
+
+### Automatic Refresh and Report Sharing:
+
+Power BI reports can be automatically shared with stakeholders via Power BI Service, saving time and ensuring that information is always up to date.
+
+## Conclusion:
+
+This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.
