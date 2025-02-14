@@ -18,7 +18,6 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 
 - **Azure Data Factory (ADF):** Orchestration and data integration.
 - **Azure Databricks:** Data processing and transformation.
-- **Azure Synapse Analytics:** Data warehousing and analytics.
 - **Power BI:** Data visualization and reporting.
 - **Azure Data Lake Storage :** Storage solution for raw and processed data.
 
