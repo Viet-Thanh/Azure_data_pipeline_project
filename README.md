@@ -6,7 +6,8 @@
 4. [Ingest Data](#ingest-data)
 5. [Processing Data](#processing-data)
 6. [Data Visualization](#data-visualization)
-7. [Conclusion](#conclusion)
+7. [Build Data Pipeline](#Build-Data-pipeline)
+8. [Conclusion](#conclusion)
 
 # Overview
 
