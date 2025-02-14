@@ -32,7 +32,7 @@ The dataset consists of 23 columns and 43 rows, capturing the KPI progress of th
 
 ## Ingest data
 
-Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** file stored on SharePoint and MS Teams. The ingestion process is scheduled to run monthly, ensuring the latest KPI data is available for processing.
+Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** file stored on SharePoint and MS Teams into the **Data Lake**. The ingestion process is scheduled to run monthly, ensuring the latest KPI data is available for processing.
 
 ![image](https://github.com/user-attachments/assets/51ed5adc-fb16-4185-9a48-b9ffcdd011b8)
 
