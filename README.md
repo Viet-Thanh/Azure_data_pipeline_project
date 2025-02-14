@@ -36,4 +36,8 @@ Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** fil
 
 ![image](https://github.com/user-attachments/assets/51ed5adc-fb16-4185-9a48-b9ffcdd011b8)
 
-## 
+## Processing data
+
+First, the data is cleaned and organized following the star schema model, which is a widely used data modeling approach in analytics.
+
+# Star Schema
