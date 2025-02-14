@@ -48,14 +48,14 @@ The data is cleaned and organized following the star schema model, which is a wi
 
 After the data is cleaned and structured into a star schema, the next step is to update and insert data based on the Load_Date field.
 
-**1. Ensuring the Latest Data is Always Updated: **
+** 1. Ensuring the Latest Data is Always Updated: **
 - Load_Date helps determine when the data was loaded into the system.
 - When new data is ingested, the system compares it with the existing data to update only what has changed, avoiding overwriting everything.  
 
-**2. Preventing Duplicate Data: **
+** 2. Preventing Duplicate Data: **
 - If a KPI record already exists in the Fact Table, instead of inserting a new record, the system updates the latest value based on Load_Date.
 - If the KPI does not exist, the system inserts a new record.
 
-*3. Efficiently Storing Historical Data: **
+** 3. Efficiently Storing Historical Data: **
 - If you need to track KPI changes over time, Load_Date can be used to retrieve data for each update cycle.
 - This is useful for analyzing KPI performance across different periods.
