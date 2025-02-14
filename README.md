@@ -84,6 +84,13 @@ Connect Power BI to the Data Lake to import the processed data. After connecting
 
 ![image](https://github.com/user-attachments/assets/f05577a1-f2a4-4c6b-b2fc-e5be60e3819f)
 
+# Build Data pipeline
+
+To build a data pipeline that automatically ingests and processes data with a one-click or scheduled monthly process, and sends a notification to MS Teams after the data pipeline completes.
+
+![image](https://github.com/user-attachments/assets/0ec0f98e-970d-4b32-8c7a-7244a9397f22)
+
+
 # Conclusion
 
 The KPI Dashboard project using Power BI connected to the Data Lake for importing processed data is a powerful and effective solution for monitoring and analyzing the work performance of the Innovation team.
