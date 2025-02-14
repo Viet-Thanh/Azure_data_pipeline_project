@@ -61,3 +61,15 @@ After the data is cleaned and structured into a star schema, the next step is to
 - This is useful for analyzing KPI performance across different periods.
 
 #### Code: https://github.com/Viet-Thanh/Azure_data_pipeline_project/blob/main/UPDATE%20AND%20INSERT%20BY%20LOAD_DATE.ipynb
+
+# Data visualization
+
+Connect Power BI to the Data Lake to import the processed data. After connecting Power BI to your Data Lake and importing the processed data, the next step is to create effective data visualizations to track and analyze the KPIs for the Innovation team.
+
+### Overview
+
+![image](https://github.com/user-attachments/assets/75e69648-1e02-40da-905e-7e0708f24b54)
+
+### Employees
+
+![image](https://github.com/user-attachments/assets/f05577a1-f2a4-4c6b-b2fc-e5be60e3819f)
