@@ -1,7 +1,7 @@
 # Table of content
 
 1. [Overview](#overview)
-
+2. [Teachnologies Used](#technologiesused)
 # Overview
 
 Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team on a Power BI dashboard. The pipeline will automatically collect, process, and update data monthly from files stored on SharePoint and MS Teams, ensuring the dashboard always reflects the latest information.
