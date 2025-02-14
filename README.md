@@ -2,6 +2,12 @@
 
 1. [Overview](#overview)
 2. [Teachnologies Used](#technologies-used)
+3. [About Datasets](#about-datasets)
+4. [Ingest Data](#ingest-data)
+5. [Processing Data](#processing-data)
+6. [Data Visualization](#data-visualization)
+7. [Conclude](#conclude)
+
 # Overview
 
 Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team on a Power BI dashboard. The pipeline will automatically collect, process, and update data monthly from files stored on SharePoint and MS Teams, ensuring the dashboard always reflects the latest information.
@@ -16,7 +22,7 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 - **Power BI:** Data visualization and reporting.
 - **Azure Data Lake Storage :** Storage solution for raw and processed data.
 
-# About datasets
+# About Datasets
 
 The dataset consists of 23 columns and 43 rows, capturing the KPI progress of the Innovation team. It specifically tracks the progress of each task, the responsible individual, and performance month by month.
 
@@ -34,13 +40,13 @@ The dataset consists of 23 columns and 43 rows, capturing the KPI progress of th
 
 *Dataset*: https://docs.google.com/spreadsheets/d/1lLZjdCUt-r0-cNRhAVFx7YquVmgQJw2f/edit?usp=drive_link&ouid=107421613910963997740&rtpof=true&sd=true
 
-# Ingest data
+# Ingest Data
 
 Use **Data flow gen 2** in **Microsoft Fabric** to ingest data from **.csv** file stored on SharePoint and MS Teams into the **Data Lake**. The ingestion process is scheduled to run monthly, ensuring the latest KPI data is available for processing.
 
 ![image](https://github.com/user-attachments/assets/51ed5adc-fb16-4185-9a48-b9ffcdd011b8)
 
-# Processing data
+# Processing Data
 
 The data is cleaned and organized following the star schema model, which is a widely used data modeling approach in analytics.
 
@@ -66,7 +72,7 @@ After the data is cleaned and structured into a star schema, the next step is to
 
 #### Code: https://github.com/Viet-Thanh/Azure_data_pipeline_project/blob/main/UPDATE%20AND%20INSERT%20BY%20LOAD_DATE.ipynb
 
-# Data visualization
+# Data Visualization
 
 Connect Power BI to the Data Lake to import the processed data. After connecting Power BI to your Data Lake and importing the processed data, the next step is to create effective data visualizations to track and analyze the KPIs for the Innovation team.
 
