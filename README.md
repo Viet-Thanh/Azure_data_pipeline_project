@@ -120,4 +120,4 @@ Power BI reports can be automatically shared with stakeholders via Power BI Serv
 
 ## Conclusion
 
-This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.
+<p style="text-align: justify; width: 400px;">This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.</p>
