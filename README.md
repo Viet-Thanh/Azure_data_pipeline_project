@@ -24,9 +24,7 @@ Building a data pipeline in MS Fabric to monitor the KPI of the Innovation team 
 
 # About Datasets
 
-<p style="text-align: justify; width: 400px;">
-    The dataset consists of 23 columns and 43 rows, capturing the KPI progress of the Innovation team. It specifically tracks the progress of each task, the responsible individual, and performance month by month.
-</p>
+The dataset consists of 23 columns and 43 rows, capturing the KPI progress of the Innovation team. It specifically tracks the progress of each task, the responsible individual, and performance month by month.
 
 **Columns:**
 1. Department
@@ -120,4 +118,4 @@ Power BI reports can be automatically shared with stakeholders via Power BI Serv
 
 ## Conclusion
 
-<p style="text-align: justify; width: 400px;">This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.</p>
+This project helps the Innovation team effectively track and assess KPIs, enabling quicker and more accurate decision-making. The integration of Power BI with Data Lake provides a powerful, visual, and easy-to-share data analysis solution, while ensuring data is continuously updated and optimized for monthly KPI reports.
